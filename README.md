@@ -1,0 +1,1 @@
+-This is a petty project that shows how to connect spring boot app to a mongo db
